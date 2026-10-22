@@ -1,0 +1,12 @@
+MATERIAL INVENTORY
+
+Material:
+Location:
+Purpose:
+Input files:
+Output files:
+Important variables:
+Current status: Not started / In progress / Completed
+Problems or questions:
+
+--------------------------------------------------

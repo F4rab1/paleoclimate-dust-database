@@ -1,0 +1,3 @@
+Site	Latitide N	Longitude E	Type
+GeoB3722	-25.25	12.023333	1
+ML1208-17PC	0.48	-154.45	1

@@ -1,0 +1,9 @@
+Site Name	GeoB3722
+Lat [deg. N]	-25.25
+Lon [deg. E]	12.023333
+Elevation [m]	-3506
+Area	N. Atlantic
+Lith. Corr.	0.6
+Lith. Corr. Abs. Err.	0.1
+References	Lippold et al. (2012); Mollenhauer et al. (2002)
+Notes	Du du du

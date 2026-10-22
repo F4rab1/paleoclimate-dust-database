@@ -1,0 +1,9 @@
+Site Name	ML1208-17PC
+Lat [deg. N]	0.48
+Lon [deg. E]	-156.45
+Elevation [m]	-2926
+Area	Eq. Pacific
+Lith. Corr.	0.7
+Lith. Corr. Abs. Err.	0.1
+References	Jacobel et al. 2017; …
+Notes	"da da da"

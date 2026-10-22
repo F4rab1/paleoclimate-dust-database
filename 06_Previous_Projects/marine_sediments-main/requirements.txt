@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+cartopy
+requests
+scipy
+seaborn
+tqdm
+more_itertools
